@@ -53,7 +53,7 @@ Computer Science student specializing in Artificial Intelligence, focused on dat
     </picture>
   </a>
 
-  <a href="https://www.kaggle.com/your-kaggle-username" target="_blank" rel="noreferrer">
+  <a href="https://www.kaggle.com/meaowmeawo" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="32" height="32" alt="Kaggle" />
   </a>
 </p>
