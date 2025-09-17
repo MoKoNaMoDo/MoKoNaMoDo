@@ -36,6 +36,15 @@ Computer Science student specializing in Artificial Intelligence, focused on dat
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
+
+<a href="https://huggingface.co/Hirun9" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://huggingface.co/favicon.ico" />
+    <source media="(prefers-color-scheme: light)" srcset="https://huggingface.co/favicon.ico" />
+    <img src="https://huggingface.co/favicon.ico" width="32" height="32" />
+  </picture>
+</a>
+
   
   <a href="https://www.instagram.com/p_nurih" target="_blank" rel="noreferrer">
     <picture>
