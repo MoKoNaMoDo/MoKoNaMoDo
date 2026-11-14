@@ -17,21 +17,21 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a **Computer Science student specializing in Artificial Intelligence**, based in **Bangkok, Thailand**. My focus is on **data forecasting and predictive analytics**, turning raw data into insights that support better decisions.
 
 Alongside Machine Learning and Data Analysis, I'm building hands-on experience in **backend development** and **AI integration**.
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🧠 Machine Learning & predictive modeling
-- 📊 Data analysis and forecasting
-- 🐍 Strengthening **Python** and **SQL**
-- ☁️ Exploring **cloud technologies** (Google Cloud)
-- 🌐 Learning **React.js** and **Node.js** for full-stack development
+- Machine Learning & predictive modeling
+- Data analysis and forecasting
+- Strengthening **Python** and **SQL**
+- Exploring **cloud technologies** (Google Cloud)
+- Learning **React.js** and **Node.js** for full-stack development
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Data & AI**
 
@@ -64,7 +64,7 @@ Alongside Machine Learning and Data Analysis, I'm building hands-on experience i
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="40" height="40" alt="Premiere Pro" /></a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Add your best repositories here, for example:
 | [Project Name](https://github.com/MoKoNaMoDo/repo) | One-line description | Python, scikit-learn |
 -->
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="left">
   <a href="https://github.com/MoKoNaMoDo"><img src="https://img.shields.io/badge/GitHub-MoKoNaMoDo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
