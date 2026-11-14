@@ -9,6 +9,10 @@
 <a href="https://huggingface.co/Hirun9"><img src="https://img.shields.io/badge/Hugging%20Face-Hirun9-ffcc4d?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
 <a href="https://www.kaggle.com/meaowmeawo"><img src="https://img.shields.io/badge/Kaggle-Profile-20beff?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 
+<br />
+
+<img src="koi/koi.gif" width="256" alt="My koi, redrawn nightly from my GitHub activity" />
+
 </div>
 
 ---
