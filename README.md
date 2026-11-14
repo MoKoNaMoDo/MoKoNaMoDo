@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%7C+AI+Major;Data+Forecasting+%26+Predictive+Analytics;Building+data-driven+solutions)](https://github.com/MoKoNaMoDo)
 
+<a href="https://resume-hirun.vercel.app/en"><img src="https://img.shields.io/badge/Resume-View%20Online-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Resume" /></a>
 <a href="mailto:hirunchatcharoensawat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/hirun-chatcharoensawat"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://huggingface.co/Hirun9"><img src="https://img.shields.io/badge/Hugging%20Face-Hirun9-ffcc4d?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
@@ -17,21 +18,21 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
 I'm a **Computer Science student specializing in Artificial Intelligence**, based in **Bangkok, Thailand**. My focus is on **data forecasting and predictive analytics**, turning raw data into insights that support better decisions.
 
 Alongside Machine Learning and Data Analysis, I'm building hands-on experience in **backend development** and **AI integration**.
 
-## Current Focus
+## 🎯 Current Focus
 
-- Machine Learning & predictive modeling
-- Data analysis and forecasting
-- Strengthening **Python** and **SQL**
-- Exploring **cloud technologies** (Google Cloud)
-- Learning **React.js** and **Node.js** for full-stack development
+- 🧠 Machine Learning & predictive modeling
+- 📊 Data analysis and forecasting
+- 🐍 Strengthening **Python** and **SQL**
+- ☁️ Exploring **cloud technologies** (Google Cloud)
+- 🌐 Learning **React.js** and **Node.js** for full-stack development
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Data & AI**
 
@@ -64,12 +65,13 @@ Alongside Machine Learning and Data Analysis, I'm building hands-on experience i
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="40" height="40" alt="Premiere Pro" /></a>
 </p>
 
-## GitHub Stats
+## 📄 Portfolio & Resume
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MoKoNaMoDo&show_icons=true&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=94a3b8&bg_color=0f172a&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoKoNaMoDo&layout=compact&langs_count=8&hide_border=true&title_color=0891b2&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
+**Want to know more about my background, skills and experience?**
+
+<a href="https://resume-hirun.vercel.app/en"><img src="https://img.shields.io/badge/View%20My%20Resume-resume--hirun.vercel.app-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="View my resume" /></a>
 
 </div>
 
@@ -82,7 +84,7 @@ Add your best repositories here, for example:
 | [Project Name](https://github.com/MoKoNaMoDo/repo) | One-line description | Python, scikit-learn |
 -->
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <p align="left">
   <a href="https://github.com/MoKoNaMoDo"><img src="https://img.shields.io/badge/GitHub-MoKoNaMoDo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
